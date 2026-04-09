@@ -1,0 +1,56 @@
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+C:\Users\student\Desktop\asdasdsketch_sep28a\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.exe
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.deps.json
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.dll
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\bin\Debug\net8.0\ConsoleApp2.pdb
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.dll
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp2.dll
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.pdb
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp2.dll
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\bin\Debug\net8.0\ConsoleApp2.exe
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\bin\Debug\net8.0\ConsoleApp2.deps.json
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\bin\Debug\net8.0\ConsoleApp2.dll
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\bin\Debug\net8.0\ConsoleApp2.pdb
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\obj\Debug\net8.0\ConsoleApp2.dll
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\obj\Debug\net8.0\refint\ConsoleApp2.dll
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\obj\Debug\net8.0\ConsoleApp2.pdb
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+\\ta8-00-rpo\obmen\RPO-23-1\ООП ПРОЕКТ\ден\ПП\obj\Debug\net8.0\ref\ConsoleApp2.dll
+D:\ден\ПП\bin\Debug\net8.0\ConsoleApp2.exe
+D:\ден\ПП\bin\Debug\net8.0\ConsoleApp2.deps.json
+D:\ден\ПП\bin\Debug\net8.0\ConsoleApp2.runtimeconfig.json
+D:\ден\ПП\bin\Debug\net8.0\ConsoleApp2.dll
+D:\ден\ПП\bin\Debug\net8.0\ConsoleApp2.pdb
+D:\ден\ПП\obj\Debug\net8.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\ден\ПП\obj\Debug\net8.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\ден\ПП\obj\Debug\net8.0\ConsoleApp2.AssemblyInfo.cs
+D:\ден\ПП\obj\Debug\net8.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\ден\ПП\obj\Debug\net8.0\ConsoleApp2.dll
+D:\ден\ПП\obj\Debug\net8.0\refint\ConsoleApp2.dll
+D:\ден\ПП\obj\Debug\net8.0\ConsoleApp2.pdb
+D:\ден\ПП\obj\Debug\net8.0\ConsoleApp2.genruntimeconfig.cache
+D:\ден\ПП\obj\Debug\net8.0\ref\ConsoleApp2.dll
